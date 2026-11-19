@@ -7,7 +7,11 @@
 <i>Learning everything the way it shouldn't be learned</i>
 
 <a href="https://discord.com/users/615386071605182474">
-  <img src="assets/png/discord.png" width=100> </img>
+  <img src="assets/png/discord.png" height=30> </img>
+</a>
+&ensp;&ensp;&ensp;&ensp;
+<a href="mailto:xischt@duck.com">
+  <img src="assets/png/mailto.png" height=30> </img>
 </a>
 
 </div>
