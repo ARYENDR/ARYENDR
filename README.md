@@ -34,6 +34,7 @@ Projects:
 - [HyprUShell](https://github.com/ARYENDR/hyprushell) (DOING)
 - [Portfolio](https://github.com/ARYENDR/pfr-edithferne) (DONE)
 - [YEST](https://github.com/ARYENDR/pr-YEST) (DONE)
+- [DOT](https://xischt.itch.io/destructionoftime) (PROTOTYPE)
 - Vein (SOON)
 - YT:MASSACRE (SOON)
 
