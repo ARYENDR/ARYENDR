@@ -22,7 +22,7 @@ Skills I've acquired:
 - [Web Development](https://svelte.dev)
 - Low level systems (I love C and [Rust](https://rust-lang.org))
 - [Game Development](https://godotengine.org)
-- [App Development]
+- [App Development](https://tauri.app/)
 - Writing Markdown
 - Understands Regex without a cheatsheet
 
@@ -39,6 +39,8 @@ Projects:
 - YT:MASSACRE (SOON)
 
 ---
+
+Languages: <b>English, Indonesian, Japanese, Russian</b>
 
 I use Arch btw :3
 
